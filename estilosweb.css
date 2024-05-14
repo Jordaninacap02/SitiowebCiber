@@ -1,0 +1,14 @@
+body{
+    background-image: url(Fondosweb/pixai-1655847210173161038-Cyberpunk\ Slums.png);
+    background-size: cover;
+   
+}
+
+#Comentario{
+    resize: none;
+}
+
+.form-label{
+    color: chartreuse;
+}
+
